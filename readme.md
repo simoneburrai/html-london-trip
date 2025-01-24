@@ -4,7 +4,7 @@ Il mio viaggio a Londra è un progetto del corso Boolean con la classe#142.
 
 ## Info
 
-Questo è il primo progetto realizzato con la classe, dove si andranno a vedere gli elementi base del codice HTML.
+Questo è il secondo progetto realizzato con la classe, dove si andranno a vedere gli elementi base del codice HTML.
 
 ## Elements
 Qui di seguito vengono riportati alcuni degli elementi utilizzati all'interno di questo progetto.
