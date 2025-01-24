@@ -28,7 +28,7 @@ TABLES:
 Semantic Elements:
 <thead></thead>
 <tbody></tbody>
-<tfooter></tfooter>
+<tfoot></tfoot>
 
 Other Elements:
 Table Row   <tr></tr>
